@@ -11,7 +11,7 @@
 
 
 ### About myself:
- I started my career at 18 as a trainee engineer. I started to study programming in 2019, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.
+ I started my career at 18 as a trainee engineer. I started to study programming in 2020, but then I did not take it seriously. After graduation started working as an engineer for a local provider. After a recommendation from a friend, i again began to take an interest in programming and learned from him about RS School. Thanks to this, now I have a real chance to change my field of activity.
 
 
  ---
@@ -20,6 +20,9 @@
 
 - **HTML5, CSS3**
 - **JavaScript Basics**
+- **Reactjs Basic**
+- **Typescript Basic**
+- **Angular Basic**
 - **VS Code**
 
 
