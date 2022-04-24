@@ -55,8 +55,7 @@
 
 
 ### Work experience:
-Nothing yet…
-
+#### Frontend Mentor at IT Center 01.12.2021 - Current
 ### Education and courses:
   - **Javascript/Front-end RSSCHOOL**
   - **CS50 video course**
